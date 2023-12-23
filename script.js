@@ -11,5 +11,4 @@ function addShape() {
 
     // Append the new shape to the container
     document.getElementById("shapeContainer").appendChild(newShape);
-    console.log("hello!")
 }
